@@ -17,5 +17,6 @@ const aboutMe = {
       },
       testing: ["XCTest", "JUnit"]
    }
+   challenges: Learning something new every day!
 }
 ```
