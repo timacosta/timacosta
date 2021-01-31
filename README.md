@@ -1,9 +1,5 @@
-<!--
-**timacosta/timacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 ### Hi there 👋, I'm Tim Acosta!
-<!--</br>Junior Mobile Developer at <a href="https://"></a>
 
 </em></p>
 [![Linkedin: TimAcosta](https://img.shields.io/badge/-TimAcosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tim-acosta-ross-74888678/)](https://www.linkedin.com/in/tim-acosta-ross-74888678/)
