@@ -9,7 +9,7 @@
 ```javascript
 const aboutMe = {
   code: [Swift, Kotlin, Dart, Java],
-  architecture: ["Clean Architecture", "MVVM", "MVC"],
+  architecture: ["MVVM", "MVC"],
   technologies: {
       mobile: {
         native: ["iOS (Swift)", "Android (Kotlin)"],
