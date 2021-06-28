@@ -11,6 +11,9 @@ const aboutMe = {
   code: [Swift, Kotlin, Dart, Java],
   architecture: ["MVVM", "MVC"],
   technologies: {
+      backend: { 
+      Java: Spring Boot
+      },
       mobile: {
         native: ["iOS (Swift)", "Android (Kotlin)"],
         hybrid: ["Flutter"]
