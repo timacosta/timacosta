@@ -13,7 +13,7 @@ const aboutMe = {
   technologies: {
       mobile: {
         native: ["iOS (Swift)", "Android (Kotlin)"],
-        hybrid: ["Flutter", "React Native"]
+        hybrid: ["Flutter"]
       },
       testing: ["XCTest", "JUnit"]
    }
