@@ -23,4 +23,5 @@ const aboutMe = {
    challenges: Learning something new every day!
 }
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timacosta)](https://https://github.com/timacosta/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timacosta)](https://https://github.com/timacosta/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timacosta&layout=compact)](https://github.com/timacosta/github-readme-stats)
