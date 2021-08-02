@@ -15,7 +15,7 @@ const aboutMe = {
       Java: Spring Boot
       },
       mobile: {
-        native: [""Android (Kotlin, Java), iOS (Swift)""],
+        native: ["Android (Kotlin, Java), iOS (Swift)"],
         hybrid: ["Flutter"]
       },
       testing: ["XCTest", "JUnit"]
