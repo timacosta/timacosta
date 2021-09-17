@@ -8,8 +8,8 @@
 
 ```javascript
 const aboutMe = {
-  code: [Swift, Kotlin, Dart, Java],
-  architecture: ["MVVM", "MVC"],
+  code: [Kotlin, Java, Swift, Dart],
+  architecture: ["MVVM", "Clean Architecture"],
   technologies: {
       backend: { 
       Java: Spring Boot
