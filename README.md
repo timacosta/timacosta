@@ -16,7 +16,7 @@ const aboutMe = {
       },
       mobile: {
         native: ["Android (Kotlin, Java), iOS (Swift)"],
-        hybrid: ["Flutter"]
+        multiplatform: ["Flutter"]
       },
       testing: ["XCTest", "JUnit"]
    }
