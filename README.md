@@ -18,7 +18,7 @@ const aboutMe = {
         native: ["Android (Kotlin, Java), iOS (Swift)"],
         multiplatform: ["Flutter"]
       },
-      testing: ["XCTest", "JUnit"]
+      testing: ["JUnit", "Espresso", "Atrium", "XCTest"]
    }
    challenges: Learning something new every day!
 }
