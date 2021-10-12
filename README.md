@@ -12,7 +12,8 @@ const aboutMe = {
   architecture: ["MVVM", "Clean Architecture"],
   technologies: {
       backend: { 
-      Java: Spring Boot
+      Java: Spring Boot,
+      Ktor: Kotlin
       },
       mobile: {
         native: ["Android (Kotlin, Java), iOS (Swift)"],
