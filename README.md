@@ -8,7 +8,7 @@
 
 ```javascript
 const aboutMe = {
-  code: [Kotlin, Java, Swift, Dart],
+  code: [Kotlin, Java],
   architecture: ["MVVM", "Clean Architecture"],
   technologies: {
       backend: { 
@@ -16,10 +16,9 @@ const aboutMe = {
       Ktor: Kotlin
       },
       mobile: {
-        native: ["Android (Kotlin, Java), iOS (Swift)"],
-        multiplatform: ["Flutter"]
+        native: ["Android (Kotlin, Java)]
       },
-      testing: ["JUnit", "Espresso", "Atrium", "XCTest"]
+      testing: ["JUnit", "Espresso", "Atrium"]
    }
    challenges: Learning something new every day!
 }
