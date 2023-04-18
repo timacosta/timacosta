@@ -18,7 +18,7 @@ const aboutMe = {
       mobile: {
         native: ["Android (Kotlin, Java)]
       },
-      testing: ["JUnit", "Espresso", "Atrium"]
+      testing: ["JUnit", "Espresso", "MockK", "Atrium"]
    }
    challenges: Learning something new every day!
 }
