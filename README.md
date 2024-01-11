@@ -24,3 +24,12 @@ val aboutMe = mapOf(
     "challenges" to "Learning something new every day!"
 )
 ```
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/timacosta">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=timacosta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=timacosta&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
