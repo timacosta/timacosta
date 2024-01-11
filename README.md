@@ -15,10 +15,10 @@ val aboutMe = mapOf(
             "native" to listOf("Android (Kotlin, Java)")
         ),
         "backend" to mapOf(
-            "Java" to "Spring Boot",
+            "Spring Boot" to "Java",
             "Ktor" to "Kotlin"
         ),
-        "testing" to listOf("JUnit", "Espresso", "MockK", "Atrium")
+        "testing" to listOf("JUnit", "MockK", "KLuent", "Espresso", "Atrium")
     ),
     "challenges" to "Learning something new every day!"
 )
