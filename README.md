@@ -4,6 +4,7 @@
 </em></p>
 [![Linkedin: TimAcosta](https://img.shields.io/badge/-TimAcosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tim-acosta-ross-74888678/)](https://www.linkedin.com/in/tim-acosta/)
 [![GitHub TimAcosta](https://img.shields.io/github/followers/timacosta?style=social)](https://github.com/timacosta)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@timacosta06)
 
 
 ```kotlin
